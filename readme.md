@@ -13,3 +13,6 @@ Jekyll + gh-pages = :shipit:
 * Run using: `bundle exec jekyll serve`
 
 * Update Github-Pages gem using: `bundle update github-pages`
+
+*Compliments*
+"Amazing Web Bro, keep up the good work!" - your bro LumberJack AKA daniel
